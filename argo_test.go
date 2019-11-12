@@ -1,4 +1,4 @@
-package arg
+package argo
 
 import (
 	"fmt"
